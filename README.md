@@ -1,6 +1,8 @@
 # Building a Student Intervention System
 Supervised Learning Project
 
+Please see student_intervention.pdf or student_intervention.ipynb for final report with code.
+
 ## Template code
 Open the template iPython notebook student_intervention.ipynb and follow along.
 
